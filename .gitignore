@@ -1,6 +1,13 @@
-<<<<<<< HEAD
-.idea/workspace.xml
-=======
 .idea/workspace.xml
 .fuse*
->>>>>>> tdev_1.0
+bin/
+pkg/linux_amd64/
+src/api-srv/api-srv
+src/cinema-srv/cinema-srv
+src/cms-srv/cms-srv
+src/comment-srv/comment-srv
+src/film-srv/film-srv
+src/order-srv/order-srv
+src/place-srv/place-srv
+src/user-srv/user-srv
+
